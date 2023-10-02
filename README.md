@@ -1,9 +1,9 @@
 # react-comments-section
 
 ## Install
-Install the latest version!
+Install the latest version this repository via:
 ```bash
-npm i react-comments-section
+npm i @bratah123/react-comments-section
 ```
 
 
