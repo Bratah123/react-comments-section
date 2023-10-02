@@ -3,9 +3,15 @@
 ## Install
 Install the latest version this repository via:
 ```bash
-npm i @bratah123/react-comments-section
+npm install git+https://github.com/Bratah123/react-comments-section.git
 ```
 
+Or in your package.json
+```json
+"depedencies": {
+  "@bratah123/react-comments-section": "github:Bratah123/react-comments-section"
+}
+```
 
 ## Detailed Documentation : https://riyanegi.github.io/react-comments-documentation/
 
